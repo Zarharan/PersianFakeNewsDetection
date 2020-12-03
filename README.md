@@ -11,5 +11,5 @@ I have used our stance detection system as a pre-processing step. As a result, t
 
 ![My proposed model in order to develop fake news detection](https://github.com/Zarharan/PersianFakeNewsDetection/blob/main/Files/Model.png)
 
-**This book will be updated during the various stages of the dissertation.**
+**This repository will be updated during the various stages of the dissertation.**
 
