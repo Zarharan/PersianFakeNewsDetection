@@ -7,4 +7,4 @@ I am using the first Persian dataset which can be used for a number of NLP tasks
 
 ##The Model
 
-![My proposed model in order to develop fake news detection](https://github.com/Zarharan/Educational-Data-Mining/blob/main/Files/GPA.JPG)
+![My proposed model in order to develop fake news detection](https://github.com/Zarharan/PersianFakeNewsDetection/blob/main/Files/Model.png)
