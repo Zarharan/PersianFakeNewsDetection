@@ -16,5 +16,5 @@ I have used our stance detection system as a pre-processing step. As a result, t
 The demo of the first Persian fake news detection model is available [here](http://khabarsaanj.ir).
 
 
-**This repository will be updated during the various stages of the dissertation.**
+**This repository will be updated after publishing the related papers.**
 
