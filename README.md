@@ -1,9 +1,14 @@
 # Persian Fake News Detection
 
-This repository contains my dissertation which is Persian fake news detection. To achieve this model, I created a dataset that you can find more information about it from [here](https://github.com/Zarharan/PersianStanceDetection).
+This repository contains my dissertation which is Persian fake news detection by using stance detection. To achieve this model, I created a dataset that you can find more information about it from [here](https://github.com/Zarharan/PersianStanceDetection).
+
+## Demo
+
+The demo of the first Persian fake news detection model is available [here](http://khabarsaanj.ir).
 
 ## Dataset
-I am using the first Persian dataset which can be used for a number of NLP tasks in the context of fact-checking. Although this dataset can be used for fact-checking and summarization, the focus of this work is on stance classification as a stepping stone for fake news detection in Persian language.
+
+I am using the first Persian stance classification dataset which can be used for a number of NLP tasks in the context of fact-checking. In addition, I have collected a new dataset which includes more than 25K instances. The new dataset can be used for fact-checking and summarization, however the focus of this work is on stance classification as a stepping stone for fake news detection in Persian language.
 
 ## The Model
 
@@ -11,10 +16,6 @@ I have used our stance detection system as a pre-processing step. As a result, t
 
 ![My proposed model in order to develop fake news detection](https://github.com/Zarharan/PersianFakeNewsDetection/blob/main/Files/Model.png)
 
-## Demo
 
-The demo of the first Persian fake news detection model is available [here](http://khabarsaanj.ir).
-
-
-**This repository will be updated after publishing the related papers.**
+**As the related papers to this repository are published, more detail and related codes and data will be added to this repository.**
 
